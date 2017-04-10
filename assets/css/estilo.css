@@ -1,0 +1,34 @@
+body{
+  position: absolute; 800px;
+  padding left: 100px;
+  align-content: center;
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+#areaDeJuego{
+  width: 500px;
+  height: 500px;
+  border: solid black;
+  background: linear-gradient(#640f99, #23e9ed)
+}
+
+#laSnake{
+  width: 20px;
+  height: 20px;
+  background: white;
+}
+
+button{
+  background: #640f99;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: 100px;
+  color: white;
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 20px;
+  position:
+}
